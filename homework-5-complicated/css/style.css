@@ -1,7 +1,20 @@
-
-.boromir {
-	margin-left: 390px;
+.image{
+	width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: auto;
 }
+.boromir {
+	width: auto;
+    height: auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -275px;
+}
+
 h2 {
 	text-align: center;
 }
@@ -22,7 +35,12 @@ h3 {
 }
 
 .minas-tirit {
-	margin-left: 300px;
+	width: auto;
+    height: auto;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -350px;
 }
 
 a {
