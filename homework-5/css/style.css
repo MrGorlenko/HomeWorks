@@ -1,0 +1,58 @@
+
+.boromir {
+	margin-left: 390px;
+}
+h2{
+	text-align: center;
+}
+.block-list {
+    border: 3px solid black;
+    width: 300px;
+    margin-left: 540px;
+}
+.list {
+	padding-left: 50px;
+}
+
+h3 {
+	text-align: center;
+}
+.first-chapter {
+	color: #930;
+}
+.first-class-type {
+	text-decoration: underline;
+}
+.second-class-type {
+	font-style: italic;
+}
+.minas-tirit {
+	margin-left: 300px;
+}
+.second-chapter {
+	color: rgb(13, 42, 150);
+}
+.third-chapter {
+	color: rgb(255, 201, 60);
+}
+.forth-chapter {
+	color: rgb(120, 150, 0);
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+}
+p {
+	margin-left: 70px;
+	margin-right: 70px; 
+	text-align: justify;
+}
+.notice {
+ font-weight: bold;
+}
+.link-back {
+	text-align: center;
+}
