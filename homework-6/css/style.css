@@ -1,0 +1,86 @@
+.background{
+	/*border: 1px solid black;*/
+	width: 1010px;
+	height: 503px;
+	margin-left: 169px; 
+	margin-top: 7%; 
+}
+.picture{
+	/*border: 1px solid black;*/
+	width: 376px;
+	height: 375px;
+	display: inline-block;
+	margin-top:64px;
+	margin-left: 48px;
+
+}
+.descriprion{
+	/*border: 1px solid black;*/
+	width: 376px;
+	height: 375px;
+	display: inline-block;
+	margin-left: 100px;
+	position: absolute;
+	margin-top:64px;
+}
+.name{
+	/*border: 1px solid black;*/
+	width: 278px;
+	height: 22px;
+	margin-top: 30px;
+	margin-left: 0;
+}
+.headline{
+	font-family: Arial Bold MT;
+	height: 22px;
+	font-size: 23px;
+	color: #2f2f2f;
+}
+.about-block{
+	/*border: 1px solid black;*/
+	width: 393px;
+	height: 50px;
+	margin-top: 30px;
+}
+.about-text{
+    font-family: Arial MT;
+	color: #2f2f2f;
+	font-size: 13px;
+}
+.price-block{
+	/*border: 1px solid black;*/
+	width: 120px;
+	height: 65px;
+	margin-top: 55px;
+	padding: -1px;
+}
+.price-text1{
+	font-family: Arial MT;
+	color: #2f2f2f;
+	font-size: 15px;
+}
+.price-text2{
+	font-family: Arial MT;
+	color: #2f2f2f;
+	font-size: 30px;
+}
+.basket-block{
+	/*border: 1px solid black;*/
+	width: 252px;
+	height: 50px;
+	margin-top: 28px;
+	background-color: #ec744a;
+}
+.basket-text{
+	font-family: Arial MT;
+	font-size: 14px;
+	padding-left: 58px;
+	padding-top: 13px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: underline;
+}
