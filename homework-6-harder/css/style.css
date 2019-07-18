@@ -30,7 +30,8 @@ img{
 	margin-left: 0;
 }
 .headline{
-	font-family: Arial Bold MT;
+	font-family: Arial MT;
+	font-weight: bold;
 	height: 22px;
 	font-size: 23px;
 	color: #2f2f2f;
