@@ -1,18 +1,19 @@
 .background{
-	/*border: 1px solid black;*/
+	/*border: 1px solid black;*/ 
 	width: 100%;
-	max-width: 900px;
-	height: 503px;
+	max-width: 1010px;
+	height: 490px;
 	position:relative;
 	margin: 7% auto;
 	padding: 46px 14px;  
+	background-color:white;
 }
 .picture{
 	/*border: 1px solid black;*/
 	display: inline-block;
 	width: 40%;
 	vertical-align: middle;
-	margin-right:10%;*
+	margin-right:10%;
 }
 img{
 	width: 100%;
@@ -30,8 +31,7 @@ img{
 	margin-left: 0;
 }
 .headline{
-	font-family: Arial MT;
-	font-weight: bold;
+	font-family: Arial Bold MT;
 	height: 22px;
 	font-size: 23px;
 	color: #2f2f2f;
@@ -46,12 +46,13 @@ img{
     font-family: Arial MT;
 	color: #2f2f2f;
 	font-size: 13px;
+	font-weight: lighter;
 }
 .price-block{
 	/*border: 1px solid black;*/
 	display: block;
 	width: 120px;
-	height: 65px;
+	height: 18px;
 	margin-top: 55px;
 	padding: -1px;
 }
@@ -59,11 +60,13 @@ img{
 	font-family: Arial MT;
 	color: #2f2f2f;
 	font-size: 15px;
+	font-weight: lighter;
 }
 .price-text2{
 	font-family: Arial MT;
 	color: #2f2f2f;
 	font-size: 30px;
+	font-weight: lighter;
 } 
 .basket-block{
 	/*border: 1px solid black;*/
@@ -76,13 +79,7 @@ img{
 .basket-text{
 	font-family: Arial MT;
 	font-size: 14px;
-	padding-left: 23%;
-	padding-top: 6%;
-}
-a {
-	text-decoration: none;
+	padding-left: auto;
+	padding-top: auto;
 	color: white;
-}
-a:hover {
-	text-decoration: underline;
 }
