@@ -46,6 +46,8 @@
 .button-1 {
     width: 80%;
     background-color: #f15921;
+    cursor: pointer;
+    border: 0px;
 }
 .color:hover {
   background:#53ea93;
