@@ -159,16 +159,17 @@ body{
 	font-size: 48px;
     font-weight: 700;
 }
+.photo{
+	width: 362px;
+	height: 254px;
+	object-fit: cover; 
+}
 .photos-1{
 	display: flex;
 	justify-content: space-between;
 	margin-top: 64px;
 	margin-bottom: 36px;
 } 
-.photo{
-	width: 362px;
-	height: 254px;
-}
 .photos-2{
     display: flex;	
     justify-content: space-between;	
