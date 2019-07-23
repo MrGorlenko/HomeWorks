@@ -1,0 +1,35 @@
+.my-row-0{
+	margin-top:20%;
+}
+.my-column-0{
+	display: flex;
+	justify-content: center;
+}
+.my-column-0-text{
+	color: #333333;
+	font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.my-row-1{
+	margin:auto;
+	margin-top: 80px;
+	display: flex;
+    justify-content: space-around;
+}
+.my-column-1{
+	display: flex;
+	flex-direction: column;
+	padding: initial;
+}
+.my-column-1-pic{
+	margin: auto;
+	margin-bottom: 21px;
+}
+.my-column-1-text{
+	margin: auto;
+	color: #333333;
+	font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+} 
