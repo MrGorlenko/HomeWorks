@@ -1,0 +1,87 @@
+
+img{
+	max-width: 100%;
+}
+.hero{
+	background-color: #f4f5f7;
+	padding-top: 70px;
+	padding-bottom: 190px;
+}
+.main{
+	padding-bottom: 191px;
+}
+.subtitle{
+	font-size: 20px;
+    font-weight: 400;
+    color: #32325f;
+}
+.title{
+	font-size: 48px;
+    font-weight: 700;
+    color: #32325f;
+}
+.price{
+	font-size: 48px;
+    font-weight: 400;
+    color: #525f7f;
+}
+.button-1{
+	background-color: #2dce89;
+	border: 0px;
+	width: 214px;
+	height: 66px;
+}
+.button-2{
+	background-color: #5e72e4;
+	border: 0px;
+	width: 250px;
+	height: 66px;
+}
+.button-text{
+	display: flex;
+    justify-content: center;
+    padding-top: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.section{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.section-subtitle{
+	font-size: 20px;
+    font-weight: 400;
+    color: #32325f;
+    margin-bottom: 16px;
+}
+.section-title{
+	font-size: 48px;
+    font-weight: 700;
+    color: #32325f;
+}
+.about-1-2{
+	margin-top: 100px;
+}
+.about-2{
+	background-color: #f4f5f7;
+}
+.about-2-pictures-1{
+	margin-top: 64px;
+}
+.about-2-picture{
+	width: 362px;
+	height: 254px;
+}
+.footer{
+	max-height: 412px;
+	background-color: #32325f;
+}
+.footer-text-1{
+	margin-top: 78px;
+	color: #ffffff;
+	margin-bottom: 35px;
+}
+.footer-text-2{
+	color: #ffffff;
+	margin-bottom: 104px;
+}
